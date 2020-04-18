@@ -4,6 +4,11 @@ from .optimize_time import data_wrangling   # Look into relative imports
 import datetime
 import logging
 import requests 
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+BACKEND_AUTHORIZATION = os.getenv("BACKEND_AUTHORIZATION")
 
 recommend_time = Blueprint('recommend_time', __name__)
 
@@ -14,7 +19,7 @@ def recommendation():
     twitter_handle = user_input['screenname']
 
     backend_url = 'https://social-media-strategy.herokuapp.com/api/posts/' + str(_id)
-    header_data = {'Authorization' : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWJqZWN0IjoxLCJlbWFpbCI6ImRzMTBAbGFzZXJzaGFya3MuY29tIiwib2t0YV91c2VyaWQiOiJEUyBoYXZlIG5vIE9rdGEiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE1ODcyNDYyMTgsImV4cCI6MTU4OTgzODIxOH0.ywj1wNvEFh2sSOv0Oc_h1MFXohuHAN1OJQtpCJVKMsk"}
+    header_data = {'Authorization' : BACKEND_AUTHORIZATION}
 
     dw = data_wrangling(twitter_handle, 5)
     fi = dw.followers_ids()
