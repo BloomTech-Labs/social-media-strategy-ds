@@ -83,7 +83,6 @@ class data_wrangling:
 
                 pass
 
-        # seperates hours, mins into lists to be put into a df (leave hours as str to keep in military time for put request to backend)
         hours, mins = [i[11:13] for i in times], [int(i[14:16]) for i in times]
         
         _min_bin = data_wrangling.min_bin(mins)
