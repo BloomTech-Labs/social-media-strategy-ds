@@ -38,35 +38,26 @@ In it's current state, the app only supports Twitter. However, the user still ge
 
 ### Predictions
 
-We have workshopped several models that will give our user's feedback. Utilizing a predictive model, we can predict the number of retweets, likes and comments a post will get; using topic modeling, we can see groupings of terms their followers typically engage with; and using sentiment analysis, we can predict the attitudes of texts their followers engage with.
+We have workshopped several models that will give our user's feedback (not yet built into the model). Utilizing a predictive model, we can predict the number of retweets, likes and comments a post will get; using topic modeling, we can see groupings of terms their followers typically engage with; and using sentiment analysis, we can predict the attitudes of texts their followers engage with.
 
-### 2️⃣ Explanatory Variables
+### Explanatory Variables
 
--   Explanatory Variable 1
--   Explanatory Variable 2
--   Explanatory Variable 3
--   Explanatory Variable 4
--   Explanatory Variable 5
+-   The time followers engage with posts
+-   The content of the posts the with which followers engage
 
 ### Data Sources
-🚫  Add to or delete souce links as needed for your project
 
-
--   [Source 1] (🚫add link to python notebook here)
--   [Source 2] (🚫add link to python notebook here)
--   [Source 3] (🚫add link to python notebook here)
--   [Source 4] (🚫add link to python notebook here)
--   [Source 5] (🚫add link to python notebook here)
+-   [Time and text - Twitter] (https://github.com/Lambda-School-Labs/social-media-strategy-ds/blob/master/python_notebooks/data_wrangling_time_and_content.ipynb)
 
 ### Python Notebooks
 
 🚫  Add to or delete python notebook links as needed for your project
 
-[Python Notebook 1](🚫add link to python notebook here)
+[Data Wrangling class](https://github.com/Lambda-School-Labs/social-media-strategy-ds/blob/master/python_notebooks/data_wrangling_time_and_content.ipynb)
 
-[Python Notebook 2](🚫add link to python notebook here)
+[Topic Modeling - user's tweets](https://github.com/Lambda-School-Labs/social-media-strategy-ds/blob/master/python_notebooks/post_analytics.ipynb)
 
-[Python Notebook 3](🚫add link to python notebook here)
+[Topic Modeling - follower's tweets](https://github.com/Lambda-School-Labs/social-media-strategy-ds/blob/master/python_notebooks/followe_data_analytics.ipynb)
 
 ### How to connect to the web API
 
