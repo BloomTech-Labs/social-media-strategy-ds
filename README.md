@@ -1,17 +1,8 @@
-🚫 Note: All lines that start with 🚫 are instructions and should be deleted before this is posted to your portfolio. This is intended to be a guideline. Feel free to add your own flare to it.
-
-🚫 The numbers 1️⃣ through 5️⃣ next to each item represent the week that part of the docs needs to be comepleted by.  Make sure to delete the numbers by the end of Labs.
-
-🚫 Each student has a required minimum number of meaningful PRs each week per the rubric.  Contributing to docs does NOT count as a PR to meet your weekly requirements.
-
-# 1️⃣ Title of project goes here
+# So-Me - A social media management tool for mid sized buisnesses
 
 You can find the project at [https://www.so-me.net/](https://www.so-me.net/login).
 
-## 5️⃣ Contributors
-
-🚫Add contributor info below, make sure add images and edit the social links for each member. Add to or delete these place-holders as needed
-
+## Contributors
 |                                       [Andrew Lowe](https://github.com/AndrewSLowe)                                        |                                       [Sarah Xu](https://github.com/sarahxu087)                                        |                                       [Jud Taylor](https://github.com/gptix)                                        |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
 |                      [<img src="https://avatars2.githubusercontent.com/u/54857972?s=460&u=521c79c3b34a1742ca8c1e6d97f530622f5c24cd&v=4" width = "200" />](https://github.com/)                       |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-UNTKB89HQ-5ce141a9cadf-512" width = "200" />](https://github.com/)                       |                      [<img src="https://avatars3.githubusercontent.com/u/21339224?s=400&v=4" width = "200" />](https://github.com/)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/AndrewSLowe)                       |
