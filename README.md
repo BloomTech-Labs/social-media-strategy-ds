@@ -22,16 +22,13 @@ You can find the project at [https://www.so-me.net/](https://www.so-me.net/login
 
 ## Project Overview
 
+[Trello Board](https://trello.com/b/tn4nvK97/labs-22-social-media-strategy)
 
-1️⃣ [Trello Board](https://trello.com/b/tn4nvK97/labs-22-social-media-strategy)
+[Product Canvas](https://www.notion.so/Social-Media-Strategy-9d1840703db34c5cb44d0f4a0cc45543)
 
-1️⃣ [Product Canvas](https://www.notion.so/Social-Media-Strategy-9d1840703db34c5cb44d0f4a0cc45543)
+So-Me is a social media management tool for small businesses. Users of So-Me will be able to post to any of their company's major social media platforms (LinkedIn, Instagram, Facebook, Twitter) from the app, supported by a simple to use drag and drop design. Our app will give user's time recommendation's for posting and feedback on their proposed post using their follower's engagement data.
 
-🚫 Replace lorem ipsum with a description of your project
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In it's current state, the app only supports Twitter. However, the user still gets benefit from using our app rather than posting directly on Twitter. We give the user a personalized time recommendation based on their follower's engagement data, and will soon give feedback on their text with their follower's data as well.  
 
 [Deployed Front End](https://www.so-me.net/)
 
@@ -39,9 +36,9 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 🚫 List all of the languages, frameworks, services, etc used here.
 
-### 2️⃣ Predictions
+### Predictions
 
-🚫 Describe your models here
+We have workshopped several models that will give our user's feedback. Utilizing a predictive model, we can predict the number of retweets, likes and comments a post will get; using topic modeling, we can see groupings of terms their followers typically engage with; and using sentiment analysis, we can predict the attitudes of texts their followers engage with.
 
 ### 2️⃣ Explanatory Variables
 
@@ -71,13 +68,13 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 [Python Notebook 3](🚫add link to python notebook here)
 
-### 3️⃣ How to connect to the web API
+### How to connect to the web API
 
-🚫 List directions on how to connect to the API here
+Connection to the web API is built into the flask_app/routes.py file. The backend makes a POST request to our flask app with the user's twitter handle and we return a PUT request with the optimal time for posting. The connection is possible with the backend token (stored in a hidden file) that can be received by sending a specific password and username to the backend URL with a GET request.
 
-### 3️⃣ How to connect to the data API
+### How to connect to the data API
 
-🚫 List directions on how to connect to the API here
+The only data API we have built into the app at this point is the Twitter Developer API. We accessed this with http requests, using our unique tokens for authentification.
 
 ## Contributing
 
