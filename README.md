@@ -51,8 +51,6 @@ We have workshopped several models that will give our user's feedback (not yet b
 
 ### Python Notebooks
 
-🚫  Add to or delete python notebook links as needed for your project
-
 [Data Wrangling class](https://github.com/Lambda-School-Labs/social-media-strategy-ds/blob/master/python_notebooks/data_wrangling_time_and_content.ipynb)
 
 [Topic Modeling - user's tweets](https://github.com/Lambda-School-Labs/social-media-strategy-ds/blob/master/python_notebooks/post_analytics.ipynb)
