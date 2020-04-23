@@ -1,4 +1,4 @@
-# So-Me - A social media management tool for mid sized buisnesses
+# So-Me
 
 You can find the project at [https://www.so-me.net/](https://www.so-me.net/login).
 
@@ -23,9 +23,9 @@ You can find the project at [https://www.so-me.net/](https://www.so-me.net/login
 ## Project Overview
 
 
-1️⃣ [Trello Board](🚫add link to trello board here)
+1️⃣ [Trello Board](https://trello.com/b/tn4nvK97/labs-22-social-media-strategy)
 
-1️⃣ [Product Canvas](🚫add link to product canvas here)
+1️⃣ [Product Canvas](https://www.notion.so/Social-Media-Strategy-9d1840703db34c5cb44d0f4a0cc45543)
 
 🚫 Replace lorem ipsum with a description of your project
 
@@ -33,9 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-🚫  delete if front end is not applicable to your project
-
-1️⃣ [Deployed Front End](🚫add link to deployed app here)
+[Deployed Front End](https://www.so-me.net/)
 
 ### Tech Stack
 
