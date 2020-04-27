@@ -24,7 +24,9 @@ In it's current state, the app only supports Twitter. However, the user still ge
 ### Tech Stack
 
 Languages: Python
+
 Frameworks: FlaskAPI
+
 Services: Heroku, Jupyter Notebooks, Postman
 
 ### Predictions
