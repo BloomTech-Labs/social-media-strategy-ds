@@ -9,17 +9,6 @@ You can find the project at [https://www.so-me.net/](https://www.so-me.net/login
 |                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/AndrewSLowe)                 |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/sarahxu087)             |           [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/gptix)            |          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/NandoTheessen)           |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/wvandolah)             |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/andrew-lowe-5b581714a/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/sarahx/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
 
-
-
-🚫 5️⃣ Optional examples of using images with links for your tech stack, make sure to change these to fit your project
-
-![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
-![Typescript](https://img.shields.io/npm/types/typescript.svg?style=flat)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b5c4db1c-b10d-42c3-b157-3746edd9e81d/deploy-status)](netlify link goes in these parenthesis)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-
-🚫 more info on using badges [here](https://github.com/badges/shields)
-
 ## Project Overview
 
 [Trello Board](https://trello.com/b/tn4nvK97/labs-22-social-media-strategy)
@@ -34,7 +23,9 @@ In it's current state, the app only supports Twitter. However, the user still ge
 
 ### Tech Stack
 
-🚫 List all of the languages, frameworks, services, etc used here.
+Languages: Python
+Frameworks: FlaskAPI
+Services: Heroku, Jupyter Notebooks, Postman
 
 ### Predictions
 
